@@ -1,0 +1,422 @@
+12:47:59 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+12:47:59 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+12:47:59 [INFO] Enabled BungeeCord version unknown
+12:48:00 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:48:00 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:48:00 [INFO] Listening websockets on /0.0.0.0:25565
+12:48:00 [SEVERE] java.net.BindException: Address already in use: bind
+12:48:00 [SEVERE] 	at sun.nio.ch.Net.bind0(Native Method)
+12:48:00 [SEVERE] 	at sun.nio.ch.Net.bind(Unknown Source)
+12:48:00 [SEVERE] 	at sun.nio.ch.Net.bind(Unknown Source)
+12:48:00 [SEVERE] 	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source)
+12:48:00 [SEVERE] 	at sun.nio.ch.ServerSocketAdaptor.bind(Unknown Source)
+12:48:00 [SEVERE] 	at org.java_websocket.server.WebSocketServer.doSetupSelectorAndServerThread(WebSocketServer.java:533)
+12:48:00 [SEVERE] 	at org.java_websocket.server.WebSocketServer.run(WebSocketServer.java:341)
+12:48:00 [SEVERE] 	at java.lang.Thread.run(Unknown Source)
+12:48:00 [INFO] Listening on /127.11.0.1:53114
+12:48:00 [INFO] Wrote a new bans.txt to: C:\Users\PeytonPlayz585\Documents\java\bungee_command\bans.txt
+12:48:03 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:48:03 [INFO] Reload complete
+12:49:13 [INFO] Closing listener [id: 0xea8c6b55, /127.11.0.1:53114]
+12:49:13 [INFO] Closing websocket listener /0.0.0.0:25565
+12:49:13 [INFO] Closing pending connections
+12:49:13 [INFO] Disconnecting 0 connections
+12:49:13 [INFO] Closing IO threads
+12:49:16 [INFO] Saving reconnect locations
+12:49:16 [INFO] Disabling plugins
+12:49:16 [INFO] Thankyou and goodbye
+12:49:19 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+12:49:19 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+12:49:19 [INFO] Enabled BungeeCord version unknown
+12:49:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:49:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:49:19 [INFO] Listening websockets on /0.0.0.0:25569
+12:49:19 [INFO] Listening on /127.11.0.1:53122
+12:49:19 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:49:19 [INFO] Reload complete
+12:53:18 [INFO] Closing listener [id: 0xc97629ea, /127.11.0.1:53122]
+12:53:18 [INFO] Closing websocket listener /0.0.0.0:25569
+12:53:19 [INFO] Closing pending connections
+12:53:19 [INFO] Disconnecting 0 connections
+12:53:19 [INFO] Closing IO threads
+12:53:21 [INFO] Saving reconnect locations
+12:53:21 [INFO] Disabling plugins
+12:53:21 [INFO] Thankyou and goodbye
+12:53:51 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+12:53:51 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+12:53:51 [INFO] Enabled BungeeCord version unknown
+12:53:52 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:53:52 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:53:52 [INFO] Listening on /0.0.0.0:25569
+12:53:52 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:53:52 [INFO] Reload complete
+13:00:48 [INFO] Closing listener [id: 0xfcb14132, /0:0:0:0:0:0:0:0:25569]
+13:00:48 [INFO] Closing pending connections
+13:00:48 [INFO] Disconnecting 0 connections
+13:00:48 [INFO] Closing IO threads
+13:00:50 [INFO] Saving reconnect locations
+13:00:50 [INFO] Disabling plugins
+13:00:50 [INFO] Thankyou and goodbye
+13:00:55 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:00:55 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:00:55 [INFO] Enabled BungeeCord version unknown
+13:00:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:00:55 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:00:55 [INFO] Listening websockets on /0.0.0.0:25569
+13:00:55 [INFO] Listening on /127.11.0.1:53363
+13:00:55 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:00:55 [INFO] Reload complete
+13:40:43 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:40:43 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:40:43 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:40:43 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+13:40:43 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has disconnected
+13:40:55 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+13:44:55 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:44:55 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:44:55 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:44:55 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+13:44:56 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has disconnected
+13:45:04 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+13:51:13 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:51:13 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:51:13 [INFO] Enabled BungeeCord version unknown
+13:51:14 [SEVERE] [ProtocolSupportBungee] Error occured while initalizing
+java.lang.NoClassDefFoundError: net/md_5/bungee/api/chat/BaseComponent
+	at protocolsupport.ProtocolSupport.onLoad(ProtocolSupport.java:14)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:158)
+	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:103)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: java.lang.ClassNotFoundException: net.md_5.bungee.api.chat.BaseComponent
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:39)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:22)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 5 more
+13:51:14 [INFO] Loaded plugin ProtocolSupportBungee version 1.16.3-1 by _Shevchik_
+13:51:14 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:51:14 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:51:14 [WARNING] Exception encountered when loading plugin: ProtocolSupportBungee
+java.lang.NoSuchMethodError: net.md_5.bungee.api.ProxyServer.getConfig()Lnet/md_5/bungee/api/ProxyConfig;
+	at protocolsupport.ProtocolSupport.onEnable(ProtocolSupport.java:24)
+	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:111)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+13:51:14 [INFO] Listening websockets on /0.0.0.0:25569
+13:51:14 [INFO] Listening on /127.11.0.1:53816
+13:51:14 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:51:14 [INFO] Reload complete
+13:51:27 [INFO] §cCommand not found
+13:51:29 [INFO] §cCommand not found
+13:51:37 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:51:37 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:51:37 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:51:39 [INFO] [PeytonPlayz585] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+13:51:39 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+13:52:12 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:52:12 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:52:12 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:52:12 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+13:52:12 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has disconnected
+13:52:20 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+14:28:38 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:28:38 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:28:38 [INFO] Enabled BungeeCord version unknown
+14:28:38 [SEVERE] [ProtocolSupportBungee] Error occured while initalizing
+java.lang.NoClassDefFoundError: net/md_5/bungee/api/chat/BaseComponent
+	at protocolsupport.ProtocolSupport.onLoad(ProtocolSupport.java:14)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:158)
+	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:103)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+Caused by: java.lang.ClassNotFoundException: net.md_5.bungee.api.chat.BaseComponent
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:39)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:22)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 5 more
+14:28:38 [INFO] Loaded plugin ProtocolSupportBungee version 1.16.3-1 by _Shevchik_
+14:28:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:28:38 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:28:38 [WARNING] Exception encountered when loading plugin: ProtocolSupportBungee
+java.lang.NoSuchMethodError: net.md_5.bungee.api.ProxyServer.getConfig()Lnet/md_5/bungee/api/ProxyConfig;
+	at protocolsupport.ProtocolSupport.onEnable(ProtocolSupport.java:24)
+	at net.md_5.bungee.api.plugin.PluginManager.loadAndEnablePlugins(PluginManager.java:111)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:254)
+	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+14:28:38 [INFO] Listening websockets on /0.0.0.0:25569
+14:28:38 [INFO] Listening on /127.11.0.1:54265
+14:28:38 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:28:38 [INFO] Reload complete
+14:28:59 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+14:28:59 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+14:28:59 [INFO] Enabled BungeeCord version unknown
+14:29:00 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:29:00 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+14:29:00 [INFO] Listening websockets on /0.0.0.0:25569
+14:29:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:29:00 [INFO] Reload complete
+14:29:00 [INFO] Listening on /127.11.0.1:54275
+14:32:05 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+14:32:05 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+14:32:05 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+14:32:05 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+14:41:43 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+14:41:43 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:01:25 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:01:25 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:01:25 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:01:25 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:06:00 [INFO] [PeytonPlayz585] disconnected with: [Proxy] Lost connection to server.
+15:06:00 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:06:00 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:06:03 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:06:03 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:06:03 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:06:03 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:07:01 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:07:01 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:25:36 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:25:36 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:25:36 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:25:36 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:30:18 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:30:18 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:30:21 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:30:21 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:30:21 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:30:21 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:30:37 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:30:51 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has disconnected
+15:31:11 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:31:11 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:31:11 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:31:11 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:31:13 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:31:18 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:31:18 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:31:18 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:31:18 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:31:18 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:33:05 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:33:05 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+15:35:47 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:35:47 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:35:47 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:35:49 [INFO] [PeytonPlayz585] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+15:35:49 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:35:52 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:35:52 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:35:52 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:35:54 [INFO] [PeytonPlayz585] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+15:35:54 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:51:13 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+15:51:13 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+15:51:13 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+15:51:13 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+15:55:31 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+15:55:31 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+16:20:22 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+16:20:22 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+16:20:22 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+16:20:22 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+16:23:16 [INFO] [PeytonPlayz] <-> InitialHandler has connected
+16:23:16 [INFO] Player 'PeytonPlayz' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+16:23:16 [INFO] Player 'PeytonPlayz' [/192.168.1.247] is using an offline download
+16:23:16 [INFO] [PeytonPlayz] <-> ServerConnector [lobby] has connected
+16:26:03 [INFO] [PeytonPlayz] -> UpstreamBridge has disconnected
+16:26:03 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+16:26:03 [INFO] [PeytonPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+16:26:03 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+16:26:59 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+16:26:59 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+16:26:59 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+16:26:59 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+16:28:51 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+16:28:51 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+16:31:07 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+16:31:07 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+16:31:07 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+16:31:07 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+16:32:05 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+16:32:05 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+16:33:26 [INFO] Closing listener [id: 0x87e2819d, /127.11.0.1:54275]
+16:33:26 [INFO] Closing websocket listener /0.0.0.0:25569
+16:33:26 [INFO] Closing pending connections
+16:33:26 [INFO] Disconnecting 0 connections
+16:33:26 [INFO] Closing IO threads
+16:33:28 [INFO] Saving reconnect locations
+16:33:28 [INFO] Disabling plugins
+16:33:29 [INFO] Thankyou and goodbye
+17:04:48 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+17:04:48 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+17:04:48 [INFO] Enabled BungeeCord version unknown
+17:04:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+17:04:49 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+17:04:49 [INFO] Listening websockets on /0.0.0.0:25569
+17:04:50 [INFO] Listening on /127.11.0.1:62429
+17:04:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+17:04:50 [INFO] Reload complete
+17:05:00 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+17:05:00 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+17:05:00 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+17:05:00 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+17:08:43 [INFO] [PeytonPlayz585] disconnected with: [Proxy] Lost connection to server.
+17:08:43 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+17:08:43 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+21:35:02 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+21:35:02 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+21:35:02 [INFO] Enabled BungeeCord version unknown
+21:35:03 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:35:03 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:35:03 [INFO] Listening websockets on /0.0.0.0:25569
+21:35:04 [INFO] Listening on /127.11.0.1:52918
+21:35:04 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:35:04 [INFO] Reload complete
+21:39:00 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+21:39:00 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+21:39:00 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+21:39:00 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+21:47:16 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+21:47:16 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+21:59:10 [INFO] Closing listener [id: 0x98e3397f, /127.11.0.1:52918]
+21:59:10 [INFO] Closing websocket listener /0.0.0.0:25569
+21:59:10 [INFO] Closing pending connections
+21:59:10 [INFO] Disconnecting 0 connections
+21:59:10 [INFO] Closing IO threads
+21:59:12 [INFO] Saving reconnect locations
+21:59:12 [INFO] Disabling plugins
+21:59:12 [INFO] Thankyou and goodbye
+10:13:17 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+10:13:17 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+10:13:17 [INFO] Enabled BungeeCord version unknown
+10:13:18 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+10:13:18 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+10:13:18 [INFO] Listening websockets on /0.0.0.0:25569
+10:13:18 [INFO] Listening on /127.11.0.1:50971
+10:13:18 [INFO] Server bans.txt changed, it will be reloaded automatically
+10:13:18 [INFO] Reload complete
+10:13:54 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+10:13:54 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+10:13:54 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+10:13:54 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+10:15:16 [INFO] [PeytonPlayz] <-> InitialHandler has connected
+10:15:16 [INFO] Player 'PeytonPlayz' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+10:15:16 [INFO] Player 'PeytonPlayz' [/192.168.1.247] is using an offline download
+10:15:16 [INFO] [PeytonPlayz] <-> ServerConnector [lobby] has connected
+10:18:29 [INFO] [PeytonPlayz] -> UpstreamBridge has disconnected
+10:18:30 [INFO] [PeytonPlayz] <-> DownstreamBridge <-> [lobby] has disconnected
+10:25:10 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+10:25:10 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+10:25:24 [INFO] Closing listener [id: 0xb90cdcd6, /127.11.0.1:50971]
+10:25:24 [INFO] Closing websocket listener /0.0.0.0:25569
+10:25:24 [INFO] Closing pending connections
+10:25:24 [INFO] Disconnecting 0 connections
+10:25:24 [INFO] Closing IO threads
+10:25:26 [INFO] Saving reconnect locations
+10:25:26 [INFO] Disabling plugins
+10:25:27 [INFO] Thankyou and goodbye
+13:02:29 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+13:02:29 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+13:02:29 [INFO] Enabled BungeeCord version unknown
+13:02:29 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+13:02:29 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+13:02:29 [INFO] Listening websockets on /0.0.0.0:25569
+13:02:29 [INFO] Server bans.txt changed, it will be reloaded automatically
+13:02:29 [INFO] Listening on /127.11.0.1:56896
+13:02:29 [INFO] Reload complete
+13:02:48 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:02:48 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:02:48 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:02:48 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+13:04:20 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+13:04:20 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+13:35:10 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+13:35:10 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+13:35:10 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+13:35:12 [INFO] [PeytonPlayz585] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+13:35:12 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+16:14:33 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+16:14:33 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+16:14:33 [INFO] Enabled BungeeCord version unknown
+16:14:33 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:14:33 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+16:14:33 [INFO] Listening websockets on /0.0.0.0:25569
+16:14:34 [INFO] Listening on /127.11.0.1:50093
+16:14:34 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:14:34 [INFO] Reload complete
+16:15:15 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+16:15:15 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+16:15:15 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+16:15:15 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+16:18:39 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+16:18:39 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:02:16 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+18:02:16 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+18:02:16 [INFO] Enabled BungeeCord version unknown
+18:02:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:02:16 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:02:17 [INFO] Listening websockets on /0.0.0.0:25569
+18:02:17 [INFO] Listening on /127.11.0.1:50915
+18:02:17 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:02:17 [INFO] Reload complete
+18:03:16 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:03:16 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:03:16 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:03:16 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:05:05 [INFO] [PeytonPlayz585] disconnected with: [Kicked] Server closed
+18:05:05 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:05:05 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:06:50 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:06:50 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:06:50 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:06:50 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:06:53 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:06:54 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:06:54 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:06:54 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:06:54 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:07:01 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:07:07 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:07:07 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:07:07 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:07:07 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:07:11 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:07:12 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:07:12 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:07:19 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:07:19 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:07:19 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:07:19 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:07:19 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:07:58 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:07:58 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:33:30 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:33:30 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:33:30 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:33:30 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:36:55 [INFO] §cCommand not found
+18:36:56 [INFO] Closing listener [id: 0xc867a06c, /127.11.0.1:50915]
+18:36:56 [INFO] Closing websocket listener /0.0.0.0:25569
+18:36:56 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:36:56 [INFO] Closing pending connections
+18:36:56 [INFO] Disconnecting 0 connections
+18:36:56 [INFO] Closing IO threads
+18:36:56 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
+18:36:59 [INFO] Saving reconnect locations
+18:36:59 [INFO] Disabling plugins
+18:36:59 [INFO] Thankyou and goodbye
+18:48:25 [INFO] Unable to initialize fancy terminal. To fix this on Windows, install the correct Microsoft Visual C++ 2008 Runtime
+18:48:25 [INFO] NOTE: This error is non crucial, and BungeeCord will still function correctly! Do not bug the author about it unless you are still unable to get it working
+18:48:25 [INFO] Enabled BungeeCord version unknown
+18:48:25 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:48:25 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+18:48:25 [INFO] Listening websockets on /0.0.0.0:25569
+18:48:25 [INFO] Listening on /127.11.0.1:51565
+18:48:25 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:48:25 [INFO] Reload complete
+18:48:37 [INFO] [PeytonPlayz585] <-> InitialHandler has connected
+18:48:37 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] has remote websocket IP: 192.168.1.247
+18:48:37 [INFO] Player 'PeytonPlayz585' [/192.168.1.247] is using an offline download
+18:48:37 [INFO] [PeytonPlayz585] <-> ServerConnector [lobby] has connected
+18:50:15 [INFO] [PeytonPlayz585] -> UpstreamBridge has disconnected
+18:50:15 [INFO] [PeytonPlayz585] <-> DownstreamBridge <-> [lobby] has disconnected
