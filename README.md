@@ -1,4 +1,4 @@
-# 🌯 `BurritoSpigot` 🌯
+# 🌯 `EaglerBurrito` 🌯
 This is a custom fork of [BurritoSpigot](https://github.com/CobbleSword/BurritoSpigot/) with [ProtocolSupport](https://github.com/ProtocolSupport/ProtocolSupport) 1.8, and [EaglerBungee](https://github.com/lax1dude/eaglercraft/tree/main/stable-download/java/bungee_command) for [Eaglercraft](https://g.deev.is/eaglercraft/)
 
 # Features
