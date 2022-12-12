@@ -1,6 +1,6 @@
 # 🌯 `Burrito Spigot` 🌯
 
-#Project Made by PeytonPlayz595 - Discord: PeytonPlayz595#6793
+# Project Made by PeytonPlayz595 - Discord: PeytonPlayz595#6793
 
 I have not had time to work on this project, but during my free time I will try to add more features:
 
