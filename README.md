@@ -16,4 +16,4 @@ This is a custom fork of [BurritoSpigot](https://github.com/CobbleSword/BurritoS
 - I removed double tall grass generation temporarily until I get a chance to add a feature that toggles it on/off. I removed double tall grass because it breaks on versions below 1.7
 
 # Need to contact me?
-You can contact me on Discord at PeytonPlayz595#6793 or by email at peytonplayz585@gmail.com 
+You can contact me on Discord at PeytonPlayz595#6793 or by email at peytonplayz585@gmail.com or peytonplayz500@outlook.com
